@@ -2,7 +2,7 @@
 
 def speak_to_grandma(what_i_say)
   if what_i_say == "I LOVE YOU GRANDMA!"
-    puts "I LOVE YOU TOO PUMPKIN!"
+    "I LOVE YOU TOO PUMPKIN!"
   else
     "HUH?! SPEAK UP, SONNY!"
 end
